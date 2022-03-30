@@ -9,3 +9,5 @@ Known issues:
 - Display doesn't turn gray
 - The window sometimes doesn't close after clicking an option
 - Pressing standby with hibernation turned on hibernates the system instead of putting it to sleep mode
+
+Installing with exe pairs a file extension (.winshut) with the executable so it can be accessed easily
