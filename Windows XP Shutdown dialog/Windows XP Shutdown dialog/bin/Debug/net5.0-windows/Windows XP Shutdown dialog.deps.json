@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Windows XP Shutdown dialog/1.0.0": {
+        "runtime": {
+          "Windows XP Shutdown dialog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Windows XP Shutdown dialog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
