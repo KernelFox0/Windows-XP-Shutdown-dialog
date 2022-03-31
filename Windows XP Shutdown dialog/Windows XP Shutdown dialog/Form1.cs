@@ -28,9 +28,9 @@ namespace Windows_XP_Shutdown_dialog
         {
             this.Close();
         }
-        public void Sleep() { this.Close(); Process.Start("\"C:\\Program Files\\Windows XP Shutdown dialog\\psshutdown64.exe\" -d -t 0"); }
-        public void Shutdown() { this.Close(); Process.Start(@"C:\Windows\System32\shutdown.exe -s -t 0"); }
-        public void Restart() { this.Close(); Process.Start(@"C:\Windows\System32\shutdown.exe -r -t 0"); }
+        public void Sleep() { this.Close(); Process.Start("\"C:\\Program Files\\Windows XP Shutdown dialog\\psshutdown64.exe\"", "-d -t 0"); }
+        public void Shutdown() { this.Close(); Process.Start(@"C:\Windows\System32\shutdown.exe", "-s -t 0"); }
+        public void Restart() { this.Close(); Process.Start(@"C:\Windows\System32\shutdown.exe", "-r -t 0"); }
         private void pictureBox2_Click(object sender, EventArgs e)
         {
             //Thread sl = new Thread();
