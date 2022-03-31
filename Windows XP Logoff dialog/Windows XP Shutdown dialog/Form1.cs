@@ -28,9 +28,9 @@ namespace Windows_XP_Shutdown_dialog
         {
             this.Close();
         }
-        public void Logoff() { this.Close(); Process.Start("\"C:\\Program Files\\Windows XP Shutdown dialog\\psshutdown.exe\" -o -t 0"); }
+        public void Logoff() { this.Close(); Process.Start("logoff.exe"); }
         public void Switch() { this.Close(); Process.Start(@"tsdiscon"); }
-        public void Lock() { this.Close(); Process.Start(@"Rundll32.exe User32.dll,LockWorkStation"); }
+        public void Lock() { this.Close(); Process.Start(@"Rundll32.exe", "User32.dll, LockWorkStation"); }
         private void pictureBox2_Click(object sender, EventArgs e)
         {
             //Thread sl = new Thread();

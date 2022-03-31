@@ -68,9 +68,9 @@ namespace Windows_XP_Shutdown_dialog
             // 
             this.pictureBox2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pictureBox2.Image = global::Windows_XP_Shutdown_dialog.Properties.Resources.logoff;
-            this.pictureBox2.Location = new System.Drawing.Point(75, 114);
+            this.pictureBox2.Location = new System.Drawing.Point(74, 113);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(48, 46);
+            this.pictureBox2.Size = new System.Drawing.Size(46, 46);
             this.pictureBox2.TabIndex = 2;
             this.pictureBox2.TabStop = false;
             this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);

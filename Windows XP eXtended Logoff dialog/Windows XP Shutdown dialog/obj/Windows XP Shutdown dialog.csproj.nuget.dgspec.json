@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Botond\\source\\repos\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog.csproj": {}
+    "C:\\Users\\Botond\\source\\repos\\Windows XP eXtended Logoff dialog\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Botond\\source\\repos\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog.csproj": {
+    "C:\\Users\\Botond\\source\\repos\\Windows XP eXtended Logoff dialog\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Botond\\source\\repos\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog.csproj",
+        "projectUniqueName": "C:\\Users\\Botond\\source\\repos\\Windows XP eXtended Logoff dialog\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog.csproj",
         "projectName": "Windows XP Shutdown dialog",
-        "projectPath": "C:\\Users\\Botond\\source\\repos\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog.csproj",
+        "projectPath": "C:\\Users\\Botond\\source\\repos\\Windows XP eXtended Logoff dialog\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog.csproj",
         "packagesPath": "C:\\Users\\Botond\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Botond\\source\\repos\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog\\obj\\",
+        "outputPath": "C:\\Users\\Botond\\source\\repos\\Windows XP eXtended Logoff dialog\\Windows XP Shutdown dialog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

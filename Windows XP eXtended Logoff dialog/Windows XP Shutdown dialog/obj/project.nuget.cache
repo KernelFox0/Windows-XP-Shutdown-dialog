@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gu2jyEd1tehV45WYunIBaAxgWs3fJqTJDW+BTikQtLoN1rJsG/lyDvaeR4fN9DZIkEfmW8ar8r7R5u3FAgzUuw==",
+  "dgSpecHash": "emD3WgC6sC2eMjtbSsrV9qOMi4yKoLL29SL2gNpifPMUDyGMYD0NrIjvsa+9uYqMXb2Rhz6Qih9vHkOoNdtA5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Botond\\source\\repos\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog.csproj",
+  "projectFilePath": "C:\\Users\\Botond\\source\\repos\\Windows XP eXtended Logoff dialog\\Windows XP Shutdown dialog\\Windows XP Shutdown dialog.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

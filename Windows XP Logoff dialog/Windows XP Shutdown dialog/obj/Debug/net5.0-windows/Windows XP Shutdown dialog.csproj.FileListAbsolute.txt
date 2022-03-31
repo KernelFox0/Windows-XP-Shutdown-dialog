@@ -17,3 +17,22 @@ C:\Users\Botond\source\repos\Windows XP Shutdown dialog\Windows XP Shutdown dial
 C:\Users\Botond\source\repos\Windows XP Shutdown dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\ref\Windows XP Shutdown dialog.dll
 C:\Users\Botond\source\repos\Windows XP Shutdown dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.pdb
 C:\Users\Botond\source\repos\Windows XP Shutdown dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.genruntimeconfig.cache
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\bin\Debug\net5.0-windows\Windows XP Shutdown dialog.exe
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\bin\Debug\net5.0-windows\Windows XP Shutdown dialog.deps.json
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\bin\Debug\net5.0-windows\Windows XP Shutdown dialog.runtimeconfig.json
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\bin\Debug\net5.0-windows\Windows XP Shutdown dialog.runtimeconfig.dev.json
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\bin\Debug\net5.0-windows\Windows XP Shutdown dialog.dll
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\bin\Debug\net5.0-windows\ref\Windows XP Shutdown dialog.dll
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\bin\Debug\net5.0-windows\Windows XP Shutdown dialog.pdb
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.csproj.AssemblyReference.cache
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows_XP_Shutdown_dialog.shutdialog.resources
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows_XP_Shutdown_dialog.Properties.Resources.resources
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.csproj.GenerateResource.cache
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.AssemblyInfoInputs.cache
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.AssemblyInfo.cs
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.csproj.CoreCompileInputs.cache
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.dll
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\ref\Windows XP Shutdown dialog.dll
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.pdb
+C:\Users\Botond\source\repos\Windows XP Logoff dialog\Windows XP Shutdown dialog\obj\Debug\net5.0-windows\Windows XP Shutdown dialog.genruntimeconfig.cache
